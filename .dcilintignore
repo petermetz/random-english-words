@@ -1,5 +1,6 @@
 # Ignoring license file for testing purposes
 LICENSE.md
+LICENSE
 
 # Another ignore pattern to increase the test case complexity
 **/tslint.json
